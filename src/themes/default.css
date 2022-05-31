@@ -1,4 +1,4 @@
-@import '@fontsource/rubik';
+@import '@fontsource/rubik/variable.css';
 
 :root {
   /* Colors */
@@ -25,7 +25,7 @@
   --gr-size-4xl: 80px;
 
   /* Typography */
-  --gr-font-family: 'Rubik', sans-serif;
+  --gr-font-family: rubikvariable, sans-serif;
   --gr-font-weight-light: 300;
   --gr-font-weight-regular: 400;
   --gr-font-weight-medium: 500;
